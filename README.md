@@ -1,6 +1,6 @@
 # EBooks4U
 
-A new Flutter project.
+A Flutter project.
 
 
 ## Getting Started
